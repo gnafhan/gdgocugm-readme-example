@@ -1,7 +1,7 @@
 # 🥗 NutriPlate
 
 <div align="center">
-  <img src="public/assets/img/logo.png" alt="NutriFe Logo" width="200"/>
+  <img src="https://flappy.nutriplate.id/_next/image?url=%2Fassets%2Fimg%2Flogo.png&w=3840&q=75" alt="NutriFe Logo" width="200"/>
   <p><em>Nutrition tracking and food analysis at your fingertips</em></p>
 </div>
 
